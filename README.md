@@ -1,1 +1,1 @@
-# Trendify
+# Trendify 
